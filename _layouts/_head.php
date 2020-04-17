@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Covid-19 Angular JS | <?php echo ucwords($uriSegments[2]); ?></title>
+        <title>AdminLTE-3.0.4 | <?php echo ucwords($uriSegments[2]); ?></title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Font Awesome -->
